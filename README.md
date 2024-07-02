@@ -27,7 +27,7 @@
 
 <h3 style="margin:1rem 0;">Languages</h3>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
+<img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badth&logo=JavaScript&logoColor=000&style=flat-square" />
 
 <h3 style="margin:1rem 0;">Frontend</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
