@@ -23,6 +23,7 @@
 <h2 style="margin-top:0.5rem;">Technologies</h2>
 
 <h3 style="margin:1rem 0;">Base</h3>
+<img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <h3 style="margin:1rem 0;">Languages</h3>
