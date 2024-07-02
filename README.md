@@ -48,7 +48,7 @@
 <h3 style="margin:1rem 0;">Design</h3>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 
 <h3 style="margin:1rem 0;">Miscellaneous</h3>
-<img src="https://img.shields.io/badge/Q-GIS?style=for-the-badge&logo=QGIS&logoColor=green&logoSize=auto&label=Qgis" />
+<img src="https://img.shields.io/badge/QGIS-3EAAAF?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" />
