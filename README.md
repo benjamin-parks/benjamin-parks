@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Sup Stinky, 👋 I'm Ben</h1>
+<h1>Greetings! 👋 I'm Ben</h1>
 
 <h3 style="margin-bottom:1rem;">I am a full stack developer and GIS enthusiast.</h3>
 
