@@ -53,6 +53,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
 <h3 style="margin:1rem 0;">Miscellaneous</h3>
-<img src="https://img.shields.io/badge/QGIS-3EAAAF?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-3EAAAF?style=for-the-badge&logo=qgis&logoColor=green" />
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
