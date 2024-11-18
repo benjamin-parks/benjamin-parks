@@ -2,7 +2,7 @@
 
 <h1>Greetings! 👋 I'm Ben</h1>
 
-<h3 style="margin-bottom:1rem;">I am a full stack developer and GIS enthusiast.</h3>
+<h3 style="margin-bottom:1rem;">I am a full stack developer and GIS enthusiast with a majority of my experience in remote sensing data processing in the agriculture industry. I am a part 107 certified drone pilot with 30,000 acres of aerial mapping under my belt.</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=benjamin-parks&theme=radical" />
 
@@ -37,6 +37,7 @@
 
 
 <h3 style="margin:1rem 0;">Frontend</h3>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -44,6 +45,7 @@
 
 <h3 style="margin:1rem 0;">Backend</h3>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-3E6A9D?style=for-the-badge&logo=drizzle-orm&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
