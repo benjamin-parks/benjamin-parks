@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=benjamin-parks&theme=radical" />
 
 <div style="display:flex;justify-content:center;gap:0.11rem;margin-top:1rem;">
-<a href="https://benjamin-parks.github.io/Portfolio-BenParks" target="_blank" rel="noopener noreferrer">
+<a href="https://ben-parks-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  />
 </a>
 
